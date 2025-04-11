@@ -123,10 +123,10 @@ This section provides more details about our development process.
 - Task #4 Adjusting of 1st discussion's document
 
    Requirements:
-   To improve porper gramma and clarity the discussion's document.
+   To improve proper grammar and clarity the discussion's document.
 
    Tests:
-   To correct the gramma mistakes. 
+   To correct the grammar mistakes. 
 
    Difficulty: Medium
 
@@ -151,10 +151,10 @@ This section provides more details about our development process.
 - Task #6 Adjusting of 2nd discussion's document
 
    Requirements:
-   To improve porper gramma and clarity the discussion's document.
+   To improve proper grammar and clarity the discussion's document.
 
    Tests:
-   To correct the gramma mistakes. 
+   To correct the grammar mistakes. 
 
    Difficulty: Medium
 
@@ -179,10 +179,10 @@ This section provides more details about our development process.
 - Task #8 Adjusting of 3rd discussion's document
 
    Requirements:
-   To improve porper gramma and clarity the discussion's document.
+   To improve proper grammar and clarity the discussion's document.
 
    Tests:
-   To correct the gramma mistakes. 
+   To correct the grammar mistakes. 
 
    Difficulty: Medium
 
