@@ -78,8 +78,7 @@ This section provides more details about our development process.
 
 ### Task List
 
-- Task #1 Main character can move horizontally
-
+- Task #1 Main character can horizontally
    Requirements:
    We should be able to control the character to move horizontally. A ground object should be provided to make such movement testable.
 
@@ -92,7 +91,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-- Task #2 Main character can jump
+- Task #2 Main character can move jump
 
    Requirements:
      We should be able to control the character to jump. A ground object should be provided to make such movement testable.
