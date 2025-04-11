@@ -120,7 +120,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #4 Adjusting of 1st discussion's document
+- Task #4 Adjusting of 1st discussion's document
 
    Requirements:
    To improve porper gramma and clarity the discussion's document.
@@ -134,7 +134,7 @@ This section provides more details about our development process.
 
    Status: Completed
   
-- Task #5 Record notes of 2nd group meeting's discussion.
+- Task #5 Record notes of 2nd group meeting's discussion
 
   Requirements:
    Notes are used for the recording and conclusion of the group meeting's discussion in order to have better document's work achievement.
@@ -147,8 +147,8 @@ This section provides more details about our development process.
    Priority: Medium
 
    Status: Completed
-  
-  - Task #6 Adjusting of 2nd discussion's document
+
+- Task #6 Adjusting of 2nd discussion's document
 
    Requirements:
    To improve porper gramma and clarity the discussion's document.
@@ -162,7 +162,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #7 Record notes of 3rd group meeting's discussion
+- Task #7 Record notes of 3rd group meeting's discussion
 
    Requirements:
    Notes are used for the recording and conclusion of the group meeting's discussion in order to have better document's work achievement.
@@ -176,7 +176,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #8 Adjusting of 3rd discussion's document
+- Task #8 Adjusting of 3rd discussion's document
 
    Requirements:
    To improve porper gramma and clarity the discussion's document.
@@ -190,7 +190,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #9 Setting the rules for managing tasks using the issue system
+- Task #9 Setting the rules for managing tasks using the issue system
 
    Requirements:
    To have a suitable task and issue format.
@@ -204,7 +204,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #10 Defining the object of our topic
+- Task #10 Defining the object of our topic
 
    Requirements:
    To decide our topic under the condition of difficulty, working period, possibility etc.
@@ -218,7 +218,7 @@ This section provides more details about our development process.
 
    Status: Completed
 
-  - Task #11 ...
+- Task #11 ...
 
    Requirements:
    ...
@@ -232,7 +232,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #12 ...
+- Task #12 ...
 
    Requirements:
    ...
@@ -246,7 +246,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #13 ...
+- Task #13 ...
 
    Requirements:
    ...
@@ -260,7 +260,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #14 ...
+- Task #14 ...
 
    Requirements:
    ...
@@ -274,7 +274,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #15 ...
+- Task #15 ...
 
    Requirements:
    ...
@@ -288,7 +288,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #16 ...
+- Task #16 ...
 
    Requirements:
    ...
@@ -302,7 +302,7 @@ This section provides more details about our development process.
 
    Status: ...
 
-  - Task #17 ...
+- Task #17 ...
 
    Requirements:
    ...
