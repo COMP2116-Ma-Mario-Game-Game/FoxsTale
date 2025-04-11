@@ -95,10 +95,11 @@ This section provides more details about our development process.
 - Task #2 Main character can jump
 
    Requirements:
-   ...
-
+     We should be able to control the character to jump. A ground object should be provided to make such movement testable.
+   
    Tests:
-   ...
+   Manully let the character jump.
+
 
    Difficulty: Medium
 
@@ -218,19 +219,19 @@ This section provides more details about our development process.
 
    Status: Completed
 
-- Task #11 ...
+- Task #11 Complete all the tasks and issues
 
    Requirements:
-   ...
+   Assign the tasks and issues under the correct format and porper content.
 
    Tests:
-   ...
+   To complete all the tasks and issues.
 
-   Difficulty: ...
+   Difficulty: High
 
-   Priority: ...
+   Priority: High
 
-   Status: ...
+   Status: Planned
 
 - Task #12 ...
 
