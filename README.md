@@ -76,6 +76,9 @@ Below is the planned schedule of the game development up to the first release. I
 - [#30 2nd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/30)
 - [#31 3rd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/31)
 
+### Tasks
+
+We use GitHub Issues to manage our tasks for the aigle development process, and here are the [rules](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/3) we follow. For a complete list of tasks, please visit [here](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues?q=is%3Aissue%20type%3ATask%20).
 
 ### Iterations
 
