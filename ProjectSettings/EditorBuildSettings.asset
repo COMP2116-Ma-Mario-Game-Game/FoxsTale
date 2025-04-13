@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Testing2.unity
     guid: 704dce2c95fa743f4bd95983393a852f
+  - enabled: 1
+    path: Assets/Scenes/RankingBoard.unity
+    guid: 355923c7227e77f44bae3f1c050f3e2d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

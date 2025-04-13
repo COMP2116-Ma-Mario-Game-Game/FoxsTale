@@ -2084,7 +2084,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waitToRespawn: 0
   gemsCollected: 0
-  levelToLoad: Main_Menu
+  levelToLoad: RankingBoard
 --- !u!4 &1303466589
 Transform:
   m_ObjectHideFlags: 0
