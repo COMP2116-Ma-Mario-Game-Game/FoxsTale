@@ -70,11 +70,13 @@ public class RankingBoard : MonoBehaviour
                 Debug.Log(webRequest.error);
                 inputName.SetActive(false);
                 tryAgain.SetActive(true);
+                rankingBoard.SetActive(false);
             }
             else
             {
                 Debug.Log(webRequest.downloadHandler.text);
                 inputName.SetActive(false);
+                tryAgain.SetActive(false);
                 rankingBoard.SetActive(true);
                 var rankingBoardData = JsonConvert.DeserializeObject<List<RankingBoardData>>(webRequest.downloadHandler.text);
                 foreach (RankingBoardData i in rankingBoardData)
