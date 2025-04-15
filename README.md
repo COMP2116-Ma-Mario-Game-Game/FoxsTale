@@ -20,7 +20,7 @@ Namio is a game that it's playing metod is similar to the classic game "Mario Ru
 
 [![Demo Video](./demo_capture.png)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
-To start our game, directly go to the [webpage of our game](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio) and give it a try!
+To start our game, download the [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/beta.1) and give it a try!
 
 ### Minimum Requirements
 
