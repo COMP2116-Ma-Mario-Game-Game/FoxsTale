@@ -9,6 +9,7 @@ using static UnityEngine.Rendering.DebugUI;
 using System.Xml.Linq;
 using Unity.VisualScripting;
 using UnityEngine.SceneManagement;
+using System.Linq;
 
 public class RankingBoard : MonoBehaviour
 {
@@ -47,11 +48,23 @@ public class RankingBoard : MonoBehaviour
         name = nameInput.GetComponent<InputField>().text;
         if (String.IsNullOrWhiteSpace(name))
         {
-            text.GetComponent<Text>().text = "Name can not empty";
+            text.GetComponent<Text>().text = "The name can't empty.";
+        }
+        else if (name.Length > 15)
+        {
+            text.GetComponent<Text>().text = "The name can't exceed 15 characters.";
+        }
+        else if (!name.ToCharArray().All(c => c <= sbyte.MaxValue && (Char.IsLetterOrDigit(c) || Char.IsWhiteSpace(c))))
+        {
+            text.GetComponent<Text>().text = "The name can only input English and numeric character.";
+        }
+        else if (GameObject.Find("MarkObject"))
+        {
+            StartCoroutine(GetRequest("https://comp2116.pythonanywhere.com/?name=" + name + "&mark=" + GameObject.Find("MarkObject").GetComponent<Mark>().mark.ToString()));
         }
         else
         {
-            StartCoroutine(GetRequest("https://comp2116.pythonanywhere.com/?name=" + name + "&mark=100"));
+            text.GetComponent<Text>().text = "Error!!!";
         }
     }
 

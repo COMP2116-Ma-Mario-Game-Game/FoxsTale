@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using UI;
 
 public class LevelManager : MonoBehaviour
 {
@@ -48,6 +49,7 @@ public class LevelManager : MonoBehaviour
 
     public void EndLevel()
     {
+        LevelUI.instance.StopTimeing();
         StartCoroutine(EndLevelCountdown());
 
     }

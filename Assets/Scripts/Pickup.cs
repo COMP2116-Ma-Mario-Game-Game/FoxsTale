@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UI;
 
 public class Pickup : MonoBehaviour
 {
@@ -35,6 +36,8 @@ public class Pickup : MonoBehaviour
                 Instantiate(pickupEffect, transform.position, transform.rotation);
 
                 UIController.instance.UpdateGemCount();
+
+                LevelUI.instance.AddScore(100);
 
                 AudioManager.instance.PlaySFX(6);
             }
