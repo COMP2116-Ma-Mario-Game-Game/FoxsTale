@@ -35,6 +35,7 @@ public class LevelManager : MonoBehaviour
     private IEnumerator RespawnCountdown()
     {
         PlayerController.instance.gameObject.SetActive(false);
+        AudioManager.instance.PlaySFX(8);
         yield return new WaitForSeconds(waitToRespawn - (1 / UIController.instance.fadeSpeed));
         UIController.instance.FadeToBlack();
         yield return new WaitForSeconds((1 / UIController.instance.fadeSpeed) * 0.2f);

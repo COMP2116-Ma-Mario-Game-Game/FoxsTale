@@ -35,6 +35,8 @@ public class Pickup : MonoBehaviour
                 Instantiate(pickupEffect, transform.position, transform.rotation);
 
                 UIController.instance.UpdateGemCount();
+
+                AudioManager.instance.PlaySFX(6);
             }
 
             if (isHeal)

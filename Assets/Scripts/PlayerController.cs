@@ -23,6 +23,8 @@ public class PlayerController : MonoBehaviour //MonoBehaviour是一个普通脚�
 
     public bool stopInput;
 
+    public float bounceForce;
+
     private void Awake() //在start()之前运行
     {
         instance = this;
@@ -55,13 +57,16 @@ public class PlayerController : MonoBehaviour //MonoBehaviour是一个普通脚�
                     if (isGrounded)
                     {
                         theRB.linearVelocity = new Vector2(theRB.linearVelocity.x, jumpForce);
+                        AudioManager.instance.PlaySFX(10);
                     }
+
                     else //如果此刻在空中
                     {
                         if (canDoubleJump) //在空中且在上一阶段（没有经历过双跳/没被设为false）
                         {
                             theRB.linearVelocity = new Vector2(theRB.linearVelocity.x, jumpForce);
                             canDoubleJump = false;
+                            AudioManager.instance.PlaySFX(10);
                         }
                     }
                 }
@@ -100,5 +105,11 @@ public class PlayerController : MonoBehaviour //MonoBehaviour是一个普通脚�
         theRB.linearVelocity = new Vector2(0f, knockbackForce);
 
         anim.SetTrigger("hurt");
+    }
+
+    public void Bounce()
+    {
+        theRB.linearVelocity = new Vector2(theRB.linearVelocity.x, bounceForce);
+        AudioManager.instance.PlaySFX(10);
     }
 }

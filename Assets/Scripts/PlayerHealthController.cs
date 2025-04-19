@@ -11,6 +11,8 @@ public class PlayerHealthController : MonoBehaviour
     private SpriteRenderer theSR;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
+    public GameObject deathEffect;
+
     private void Awake()  //在start()之前运行
     {
         instance = this;  //指的是当前运行组件
@@ -46,6 +48,7 @@ public class PlayerHealthController : MonoBehaviour
                 currentHealth = 0;
 
                 //gameObject.SetActive(false);
+                Instantiate(deathEffect, transform.position, transform.rotation);
 
                 LevelManager.instance.RespawnPlayer();
             }
@@ -54,6 +57,8 @@ public class PlayerHealthController : MonoBehaviour
                 invincibleCounter = invincibleTime;
                 theSR.color = new Color(theSR.color.r, theSR.color.g, theSR.color.b, 0.5f);
                 PlayerController.instance.Knockback();
+
+                AudioManager.instance.PlaySFX(9);
 
 
             }
