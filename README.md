@@ -84,28 +84,44 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
 
 - Iteration 0 (Mar 4 - 10, 2025 / 1 week)
 
-    Planned Tasks: 1, ...
+    Planned Tasks: 1, Complete the basic framework of the game.
+                   2，Create a tile palette and draw a level with tilemaps.
 
-    Completed Tasks: 1, ...
+    Completed Tasks: 1, Complete the basic framework of the game.
+                     2，Create a tile palette and draw a level with tilemaps.
 
 - Iteration 1 (Mar 24 - 30 / 1 week)
 
-    Planned Tasks: ...
+    Planned Tasks: 1,Create the basic model and animation of the protagonist Fox.
+                   2,Create a health system and sut up health UI
+                   3,Create and integrate the first enemy
 
-    Completed Tasks: ...
+    Completed Tasks: 1,Create the basic model and animation of the protagonist Fox.
+                     2,Create a health system and sut up health UI
+                     3,Create and integrate the first enemy
 
 - Iteration 2 (Mar 31 - Apr 6 / 1 week)
 
-    Planned Tasks: ...
+    Planned Tasks: 1,Create a collective system and sut up collective UI
+                   2,Create the basic model and animation of the Gems(collective things).
+                   3,Add pickup effect
+                   4,Add sound effect
 
-    Completed Tasks: ...
+    Completed Tasks: 1,Create a collective system and sut up collective UI
+                     2,Create the basic model and animation of the Gems(collective things).
+                     3,Add pickup effect
+
 
 - Iteration 3 (Apr 7 - Apr 13 / 1 week)
 
-    Planned Tasks: ...
+    Planned Tasks: 1,Add sound effect
+                   2,Make the Menu work
+                   3,Conduct final game testing and debugging and prepare for release.
 
-    Completed Tasks: ...
-
+    Completed Tasks: 1,Add sound effect
+                     2,Make the Menu work
+                     3,Conduct final game testing and debugging and prepare for release.
+ 
 ### Toolset
 
 - Programming Language: C#, Python, ...
