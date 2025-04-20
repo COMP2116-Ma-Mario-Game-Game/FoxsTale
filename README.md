@@ -18,17 +18,18 @@ Namio is a game that it's playing metod is similar to the classic game "Mario Ru
 
 ### Demo Video
 
-[![Demo Video](./demo_capture.png)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+[![Demo Video](./demo_capture.png)](https://www.youtube.com/watch?v=a_link_to_our_demo_video)
 
-To start our game, download the [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/beta.1) and give it a try!
+Our game is available in page [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/beta.2), download it and give it a try!
 
 ### Minimum Requirements
 
-- Windows 10 or later
-- 1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)
-- 1GB of RAM / 2GB of RAM for the 64-bit version
-- 500MB of hard drive space
-- ...
+- OS: Windows 10 64-bit or newer
+- CPU: Intel Core i5-9700 / AMD Ryzen 5 5500
+- Memory: 16GB RAM
+- GPU: NVIDIA GeForce GTX 1060 / AMD Radeon RX 5600 / INTEL Arc A750
+- DirectX: Version 12
+- Storage: 128MB available space
 
 <a id='purpose'></a>
 
@@ -40,13 +41,15 @@ Our target audiences are mainly for primary and secondary school children to hav
 
 ## Team Members
 
+Our team consists of the following members:
+
 | Name | Student ID | Role | Responsiblities | Portion |
 | --- | :---: | --- | --- | :---: |
-| Michale Leong | P2304152 | ... | ... | 0.2 |
-| Henry Chou | P2304111 | ... | ... | 0.2 |
-| Bibie Chen | P2321060 | ... | ... | 0.2 |
-| Thomas Cheang | P2321902 | ... | ... | 0.2 |
-| Todd Huang | P2304318 | ... | ... | 0.2 |
+| Michale Leong | P2304152 | Programmer, Docs Clerk  | Prototype, Main Game, Docs | 0.2 |
+| Henry Chou | P2304111 | Docs Clerk | Docs | 0.2 |
+| Bibie Chen | P2321060 | Game Designer, Programmer, Docs Clerk | Prototype, Main Game, Docs | 0.2 |
+| Thomas Cheang | P2321902 | Docs Clerk, Video Editor | Docs, Demo | 0.2 |
+| Todd Huang | P2304318 | Programmer, Docs Clerk | Prototype, Docs | 0.2 |
 
 <a id='schedule'></a>
 
@@ -111,7 +114,6 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
                      2,Create the basic model and animation of the Gems(collective things).
                      3,Add pickup effect
 
-
 - Iteration 3 (Apr 7 - Apr 13 / 1 week)
 
     Planned Tasks: 1,Add sound effect
@@ -121,12 +123,12 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
     Completed Tasks: 1,Add sound effect
                      2,Make the Menu work
                      3,Conduct final game testing and debugging and prepare for release.
- 
+
 ### Toolset
 
 - Programming Language: C#, Python, ...
 - Frameworks: Django, ...
-- IDEs: Unity 2022.3, JetBrain Rider, VS Code, ...
+- IDEs: Unity 2022.3, VS Code, ...
 - Version Control: Git, GitHub
 - Hosting Platform: PythonAnywhere
 - ...
@@ -150,11 +152,12 @@ Currently, our game has ...
 ## Future Plan
 
 This section outlines the elements of our game that how it might be developed in future:
-1.More levels: the difficulty will increase as player enter to the next level.
-2.Game tutorial: insert a beginner tutorial at the very first stage to teach player hoe to play.
-3.Multi-player system: except the solo mode, it could be developed a multi-players mode for new game experience.
-4.Different character: new character could be invented whuch might bring with variety extra ability.
-5.New character's skin: character's skin system might be developed in order to improve attract of player on the game.
-6.Shopping system: A shopping system could be develpoed to let player to spend the coins they have got in the game and buy new character, skin or item if any.
-7.Invent item: item may give character different effect.
-8.Buff and debuff system: During the game, there might exist some blocks or items that may affect character's status such as speeding, blindness, slowing, hopping, rushing, frozing, posion etc.
+
+- More levels: the difficulty will increase as player enter to the next level.
+- Game tutorial: insert a beginner tutorial at the very first stage to teach player hoe to play.
+- Multi-player system: except the solo mode, it could be developed a multi-players mode for new game experience.
+- Different character: new character could be invented whuch might bring with variety extra ability.
+- New character's skin: character's skin system might be developed in order to improve attract of player on the game.
+- Shopping system: A shopping system could be develpoed to let player to spend the coins they have got in the game and buy new character, skin or item if any.
+- Invent item: item may give character different effect.
+- Buff and debuff system: During the game, there might exist some blocks or items that may affect character's status such as speeding, blindness, slowing, hopping, rushing, frozing, posion etc.
