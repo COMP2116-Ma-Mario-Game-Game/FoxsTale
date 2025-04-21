@@ -192,4 +192,4 @@ This section outlines the elements of our game we wish to develop in future:
 - New skins: A character's skin system might be developed to attract more players and keep the game fresh.
 - Shopping system: A shopping system could be developed for player to spend the gems they collected in game to buy new characters, skins or items.
 - Item: Items may give character different effect.
-- Buff and debuff system: During the game, there might be some obstacles or items that may affect character's status such as swiftness, blindness, slowness, jump boost, rushing, freezing, posion etc.
+- Buff and debuff system: During the game, there might be some obstacles or items that may affect character's status such as swiftness, blindness, slowness, jump boost, rushing, freezing, poison etc.
