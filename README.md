@@ -142,11 +142,15 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
 
     Planned Tasks:
     1. Conduct final game testing and debugging and prepare for release.
-    2. Polish the README.md.
+    2. Integrate Ranking Board to the Main Menu.
+    3. Fix known bugs.
+    4. Polish the README.md.
 
     Completed Tasks:
     1. Conduct final game testing and debugging and prepare for release.
-    2. Polish the README.md.
+    2. Integrate Ranking Board to the Main Menu.
+    3. Fix known bugs.
+    4. Polish the README.md.
 
 ### Toolset
 
