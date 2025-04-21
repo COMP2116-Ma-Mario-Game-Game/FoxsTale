@@ -101,13 +101,13 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
     1. Create the basic model and animation of the protagonist Fox.
     2. Create a health system and sut up health UI
     3. Create and integrate the first enemy
-    4. Create the front-end and back-end of the ranking of the game
+    4. Create the back-end of the ranking of the game
 
     Completed Tasks:
     1. Create the basic model and animation of the protagonist Fox.
     2. Create a health system and sut up health UI
     3. Create and integrate the first enemy
-    4. Create the front-end and back-end of the ranking of the game
+    4. Create the back-end of the ranking of the game
 
 - Iteration 2 (Mar 31 - Apr 6 / 1 week)
 
@@ -116,23 +116,29 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
     2. Create the basic model and animation of the Gems(collective things).
     3. Add pickup effect
     4. Add sound effect
+    5. Create the front-end of the ranking of the game
 
     Completed Tasks:
     1. Create a collective system and sut up collective UI
     2. Create the basic model and animation of the Gems(collective things).
     3. Add pickup effect
+    4. Create the front-end of the ranking of the game
 
 - Iteration 3 (Apr 7 - Apr 13 / 1 week)
 
-    Planned Tasks:
+    Planned Tasks: 
     1. Add sound effect
     2. Make the Menu work
-    3. Conduct final game testing and debugging and prepare for release.
+    3. Create the score system and timing system
+    4. implement the score system into the ranking system
+    5. Conduct final game testing and debugging and prepare for release.
 
-    Completed Tasks:
+    Completed Tasks: 
     1. Add sound effect
     2. Make the Menu work
-    3. Conduct final game testing and debugging and prepare for release.
+    3. Create the score system and timing system
+    4. implement the score system into the ranking system
+    5. Conduct final game testing and debugging and prepare for release.
 
 ### Toolset
 
