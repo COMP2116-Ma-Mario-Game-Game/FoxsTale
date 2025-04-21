@@ -18,9 +18,9 @@ FOX'S TALE is a game with a similar playstyle to the classic "Mario" games. Play
 
 ### Demo Video
 
-[![Demo Video](./demo_capture.png)](https://www.youtube.com/watch?v=Am_9HIMf370)
+[![Demo Video](./demo_capture.png)](https://youtu.be/4HbANseA9HE)
 
-Our game is available in the [web page](https://comp2116-ma-mario-game-game.github.io/), or if you prefer a desktop version you can download it from the [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/1.0). Give it a try!
+Our game is available on the [web page](https://comp2116-ma-mario-game-game.github.io/), or if you prefer a desktop version you can download it from the [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/1.0). Give it a try!
 
 ### Minimum Requirements
 
