@@ -98,10 +98,12 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
     Planned Tasks: 1,Create the basic model and animation of the protagonist Fox.
                    2,Create a health system and sut up health UI
                    3,Create and integrate the first enemy
+                   4.Create the front-end and back-end of the ranking of the game
 
     Completed Tasks: 1,Create the basic model and animation of the protagonist Fox.
                      2,Create a health system and sut up health UI
                      3,Create and integrate the first enemy
+                     4.Create the front-end and back-end of the ranking of the game
 
 - Iteration 2 (Mar 31 - Apr 6 / 1 week)
 
@@ -145,7 +147,7 @@ In this game, we have used the following open source packages ...
 
 ## Current status
 
-Currently, our game has ...
+Currently, our game has one level only. In addition, our game contain the timting system, score system and ranking system. The timing system may add extra points to the score system meanwhile the ranking system is depend by the score system.
 
 <a id='future-plan'></a>
 
