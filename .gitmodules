@@ -1,3 +1,6 @@
 [submodule "RankingBoard-Server"]
 	path = RankingBoard-Server
 	url = https://github.com/COMP2116-Ma-Mario-Game-Game/RankingBoard-Server.git
+[submodule "COMP2116-Ma-Mario-Game-Game.github.io"]
+	path = COMP2116-Ma-Mario-Game-Game.github.io
+	url = https://github.com/COMP2116-Ma-Mario-Game-Game/COMP2116-Ma-Mario-Game-Game.github.io.git
