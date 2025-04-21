@@ -101,7 +101,6 @@ public class RankingBoard : MonoBehaviour
             else
             {
                 Debug.Log(webRequest.downloadHandler.text);
-                Destroy(GameObject.Find("MarkObject"));
                 inputName.SetActive(false);
                 tryAgain.SetActive(false);
                 loading.SetActive(false);

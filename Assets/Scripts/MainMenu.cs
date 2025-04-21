@@ -9,7 +9,10 @@ public class MainMenu : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        if (GameObject.Find("MarkObject"))
+        {
+            Destroy(GameObject.Find("MarkObject"));
+        }
     }
 
     // Update is called once per frame

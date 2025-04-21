@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\Namio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|d:\\github\\namio\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|d:\\github\\namio\\assets\\scripts\\rankingboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rankingboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|d:\\github\\namio\\assets\\scripts\\levelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|d:\\github\\namio\\assets\\scripts\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|d:\\github\\namio\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5B62-FB44-58D4-4C43-4F88FECBEBDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\GitHub\\Namio\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\GitHub\\Namio\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:45:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RankingBoard.cs",
+              "DocumentMoniker": "D:\\GitHub\\Namio\\Assets\\Scripts\\RankingBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RankingBoard.cs",
+              "ToolTip": "D:\\GitHub\\Namio\\Assets\\Scripts\\RankingBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RankingBoard.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA0wFYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:44:21.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelUI.cs",
+              "DocumentMoniker": "D:\\GitHub\\Namio\\Assets\\Scripts\\LevelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelUI.cs",
+              "ToolTip": "D:\\GitHub\\Namio\\Assets\\Scripts\\LevelUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:40:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\GitHub\\Namio\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "D:\\GitHub\\Namio\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:40:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "D:\\GitHub\\Namio\\Assets\\Scripts\\Mark.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mark.cs",
+              "ToolTip": "D:\\GitHub\\Namio\\Assets\\Scripts\\Mark.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:39:46.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

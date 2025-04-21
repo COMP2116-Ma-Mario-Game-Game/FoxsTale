@@ -15,8 +15,4 @@ public class Mark : MonoBehaviour
     }
     public long mark;
 
-    void Awake()
-    {
-        DontDestroyOnLoad(transform.gameObject);
-    }
 }

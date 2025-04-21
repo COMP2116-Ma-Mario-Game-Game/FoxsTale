@@ -27,6 +27,7 @@ namespace UI
             AddScore(Mathf.FloorToInt(_time));
             _time = 0;
             ShowTime();
+            DontDestroyOnLoad(GameObject.Find("MarkObject"));
             GameObject.Find("MarkObject").GetComponent<Mark>().mark = _score;
         }
         public void AddScore(long score)
