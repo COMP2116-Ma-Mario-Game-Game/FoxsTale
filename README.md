@@ -160,11 +160,10 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
 ### Algorithm
 
 In this game, we have use the following algorithm ：
-Collision Detection Algorithms : AABB（Axis-Aligned Bounding Box）
-Animation control algorithms : State Motorised Painting
-Graphics Rendering Algorithms : Z-buffering
-AI Enemy Behaviour Algorithm : State Machine
-
+ 1. Collision Detection Algorithms : AABB（Axis-Aligned Bounding Box）
+    2. Animation control algorithms : State Motorised Painting
+    3. Graphics Rendering Algorithms : Z-buffering
+    4. AI Enemy Behaviour Algorithm : State Machine
 
 ### Open Source Notice
 
