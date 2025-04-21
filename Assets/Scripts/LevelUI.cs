@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UIElements;
+using UnityEngine.UI;
 
 namespace UI
 {
@@ -7,11 +7,13 @@ namespace UI
     {
         public static LevelUI instance;
         public float timeLimit;
+        public GameObject lbTimerValue;
+        public GameObject lbScoreValue;
         private float _time;
         private long _score;
 
-        private Label _lbTimerValue;
-        private Label _lbScoreValue;
+        private Text _lbTimerValue;
+        private Text _lbScoreValue;
 
         private bool _timeing = true;
 
@@ -48,9 +50,8 @@ namespace UI
             _time = timeLimit;
             _score = 0;
 
-            var uiDocument = GetComponent<UIDocument>();
-            _lbTimerValue = uiDocument.rootVisualElement.Q<Label>("lbTimerValue");
-            _lbScoreValue = uiDocument.rootVisualElement.Q<Label>("lbScoreValue");
+            _lbTimerValue = lbTimerValue.GetComponent<Text>();
+            _lbScoreValue = lbScoreValue.GetComponent<Text>();
         }
 
         // Update is called once per frame

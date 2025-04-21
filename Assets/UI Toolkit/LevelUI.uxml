@@ -1,12 +1,12 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement name="Screen" style="flex-grow: 1; flex-direction: row; -unity-font-definition: url(&quot;project://database/Assets/2D%20Platformer%20Assets/Font/Pixelnauts.ttf?fileID=12800000&amp;guid=b2fd7055df9d28d4e9e51ad10766889f&amp;type=3#Pixelnauts&quot;);">
+    <ui:VisualElement name="Screen" style="flex-grow: 1; flex-direction: row; -unity-font-definition: url(&quot;project://database/Assets/2D%20Platformer%20Assets/Font/Pixelnauts.ttf?fileID=12800000&amp;guid=b2fd7055df9d28d4e9e51ad10766889f&amp;type=3#Pixelnauts&quot;); color: rgb(0, 0, 0); text-shadow: 0 0 0 rgba(10, 9, 9, 0.5); -unity-text-outline-width: 4px; -unity-text-outline-color: rgba(10, 9, 9, 0.5); -unity-font-style: normal; -unity-text-align: upper-center; font-size: 88px;">
         <ui:VisualElement name="Timer" style="flex-grow: 1; flex-direction: row; justify-content: flex-end;">
-            <ui:Label tabindex="-1" text="Timer" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbTimer" style="width: 200px; font-size: 72px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; -unity-text-align: upper-center;" />
-            <ui:Label tabindex="-1" text="00:00" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbTimerValue" style="font-size: 72px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; -unity-text-align: upper-center; width: 200px;" />
+            <ui:Label tabindex="-1" text="Timer" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbTimer" style="width: 220px;" />
+            <ui:Label tabindex="-1" text="00:00" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbTimerValue" style="width: 220px;" />
         </ui:VisualElement>
         <ui:VisualElement name="Score" style="flex-grow: 1; flex-direction: row; justify-content: flex-start;">
-            <ui:Label tabindex="-1" text="Score" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbScore" style="font-size: 72px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; -unity-text-align: upper-center; width: 200px;" />
-            <ui:Label tabindex="-1" text="0000" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbScoreValue" style="font-size: 72px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; -unity-text-align: upper-center; width: 200px;" />
+            <ui:Label tabindex="-1" text="Score" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbScore" style="width: 220px;" />
+            <ui:Label tabindex="-1" text="0000" parse-escape-sequences="true" display-tooltip-when-elided="true" name="lbScoreValue" style="width: 220px;" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

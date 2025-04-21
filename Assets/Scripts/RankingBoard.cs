@@ -18,9 +18,11 @@ public class RankingBoard : MonoBehaviour
     public GameObject inputName;
     public GameObject tryAgain;
     public GameObject rankingBoard;
+    public GameObject loading;
     public Transform emtryContainer;
     public Transform emtryTemplate;
     public string mainScene;
+    public string ServerDomain;
 
     private new string name;
 
@@ -35,9 +37,19 @@ public class RankingBoard : MonoBehaviour
     }
     void Start()
     {
-        inputName.SetActive(true);
         tryAgain.SetActive(false);
         rankingBoard.SetActive(false);
+        if (GameObject.Find("MarkObject"))
+        {
+            loading.SetActive(false);
+            inputName.SetActive(true);
+        }
+        else
+        {
+            loading.SetActive(true);
+            inputName.SetActive(false);
+            StartCoroutine(GetRequest("https://" + ServerDomain + "/"));
+        }
     }
     public void ReStartGame()
     {
@@ -60,7 +72,7 @@ public class RankingBoard : MonoBehaviour
         }
         else if (GameObject.Find("MarkObject"))
         {
-            StartCoroutine(GetRequest("https://comp2116.pythonanywhere.com/?name=" + name + "&mark=" + GameObject.Find("MarkObject").GetComponent<Mark>().mark.ToString()));
+            StartCoroutine(GetRequest("https://" + ServerDomain + "/?name=" + name + "&mark=" + GameObject.Find("MarkObject").GetComponent<Mark>().mark.ToString()));
         }
         else
         {
@@ -83,13 +95,16 @@ public class RankingBoard : MonoBehaviour
                 Debug.Log(webRequest.error);
                 inputName.SetActive(false);
                 tryAgain.SetActive(true);
+                loading.SetActive(false);
                 rankingBoard.SetActive(false);
             }
             else
             {
                 Debug.Log(webRequest.downloadHandler.text);
+                Destroy(GameObject.Find("MarkObject"));
                 inputName.SetActive(false);
                 tryAgain.SetActive(false);
+                loading.SetActive(false);
                 rankingBoard.SetActive(true);
                 var rankingBoardData = JsonConvert.DeserializeObject<List<RankingBoardData>>(webRequest.downloadHandler.text);
                 foreach (RankingBoardData i in rankingBoardData)

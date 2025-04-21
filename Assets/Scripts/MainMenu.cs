@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     public string startScene;
+    public string rankingBoard;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,6 +21,11 @@ public class MainMenu : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene(startScene);
+    }
+
+    public void RankingBoard()
+    {
+        SceneManager.LoadScene(rankingBoard);
     }
 
     public void QuitGame()
