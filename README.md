@@ -35,7 +35,7 @@ Our game is available in page [release build](https://github.com/COMP2116-Ma-Mar
 
 ## Purposes of Our Game
 
-Our target audience is mainly primary and secondary school children who are looking for a simple and positive game to enjoy but it is also suitable for people of any age to play. For the development, we chose the Agile Development Process. The reason for this choice is because the game market is highly competitive and we would like to adopt the Time-To-Market strategy. The Agile Development Process is a good fit for our strategy. We have concluded that we're able to complete this goal under some deep analysis of condition such as possibility, difficulty, work time period etc.
+Our target audience is mainly primary and secondary school children who are looking for a simple and positive game to enjoy but it is also suitable for people of any age to play. For the development, we chose the Agile Development Process. The reason for this choice is because the game market is highly competitive, which prompt us to adopt the Time-To-Market strategy and the Agile Development Process is a good fit for this strategy. After much delibration, we have concluded that we're able to complete this goal under some deep analysis of condition such as possibility, difficulty, work time period etc..
 
 <a id='members'></a>
 
@@ -177,7 +177,7 @@ In this game, we have used the following open source packages:
 
 ## Current status
 
-Currently, our game only has one level. In addition to that, our game contains a timing system, score system and ranking system. The timing system contributesto the score system while the ranking system depends on the score system.
+Currently, our game only has one level. In addition to that, our game contains a timing system, score system and ranking system. The timing system contributes to the score system while the ranking system depends on the score system.
 
 <a id='future-plan'></a>
 
