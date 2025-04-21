@@ -172,6 +172,7 @@ In this game, we have used the following open source packages:
 
 - [Newtonsoft Json Unity Package](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.2)
 - [Material Files / Assets](https://pan.baidu.com/s/1BiMuJRmoXYkkGZcgxdlsmA)       (Extract code: d7cz)
+- [Django 4.2](https://www.djangoproject.com/)
 
 <a id='current-status'></a>
 
