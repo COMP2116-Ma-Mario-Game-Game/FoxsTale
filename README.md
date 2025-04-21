@@ -1,6 +1,6 @@
 ![Project Banner](./banner.png)
 
-Namio is a game that it's playing metod is similar to the classic game "Mario Run". Player can control the character to move forward and backward.Furthermore, the character can single jump and double jump. During the game, player can collect the coins in order to achieve a better score and avoid danger in order to keep the statement of character remain healthy.At the main page of the game contains an ranking of score.
+FOX'S TALE is a game that it's playing metod is similar to the classic game "Mario Run". Player can control the character to move forward and backward.Furthermore, the character can single jump and double jump. During the game, player can collect the coins in order to achieve a better score and avoid danger in order to keep the statement of character remain healthy.At the main page of the game contains an ranking of score.
 
 ## Table of content
 
@@ -35,7 +35,7 @@ Our game is available in page [release build](https://github.com/COMP2116-Ma-Mar
 
 ## Purposes of Our Game
 
-Our target audiences are mainly for primary and secondary school children to have an positve game to enjoy, but it is also suitable for any age of user to play our game. For the development, we chose the Agile Development Process. The reason for this choice is because we have concluded that we're able to complete this goal under some deep thinking of condition such as possibility, difficulty, work time period etc.
+Our target audiences are mainly for primary and secondary school children to have an positve game to enjoy, but it is also suitable for any age of user to play our game. For the development, we chose the Agile Development Process. The reason for this choice is because the game market is highly competitive and we would like to adopt the Time-To-Market strategy. The Agile Development Process is a good fit for our strategy. We have concluded that we're able to complete this goal under some deep thinking of condition such as possibility, difficulty, work time period etc.
 
 <a id='members'></a>
 
@@ -65,9 +65,9 @@ Below is the planned schedule of the game development up to the first release. I
 
     In this phase, the development process formally started. We carried out our development with weekly iterations.
 
-- Pre-release (Apr 14 - Apr 20, 2025 / 1 week)
+- Pre-release (Apr 14 - Apr 22, 2025 / ~1 week)
 
-    In this phase, we had the game ready for its first release and hosted it in the PythonAnywhere platform. Besdies, we finalized the front page of our repository.
+    In this phase, we had the game ready for its first release. Besdies, we finalized the front page of our repository.
 
 <a id='development-process'></a>
 
@@ -75,56 +75,64 @@ Below is the planned schedule of the game development up to the first release. I
 
 ### Meeting Minutes
 
-- [#29 1st group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/29)
-- [#30 2nd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/30)
-- [#31 3rd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/31)
+- [#29 1st group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues/29)
+- [#30 2nd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues/30)
+- [#31 3rd group meeting discussion](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues/31)
 
 ### Tasks
 
-We use GitHub Issues to manage our tasks for the aigle development process, and here are the [rules](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues/3) we follow. For a complete list of tasks, please visit [here](https://github.com/COMP2116-Ma-Mario-Game-Game/Namio/issues?q=is%3Aissue%20type%3ATask%20).
+We use GitHub Issues to manage our tasks for the aigle development process, and here are the [rules](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues/3) we follow. For a complete list of tasks, please visit [here](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues?q=is%3Aissue%20type%3ATask%20).
 
 ### Iterations
 
 - Iteration 0 (Mar 4 - 10, 2025 / 1 week)
 
-    Planned Tasks: 1, Complete the basic framework of the game.
-                   2，Create a tile palette and draw a level with tilemaps.
+    Planned Tasks:
+    1. Complete the basic framework of the game.
+    2. Create a tile palette and draw a level with tilemaps.
 
-    Completed Tasks: 1, Complete the basic framework of the game.
-                     2，Create a tile palette and draw a level with tilemaps.
+    Completed Tasks:
+    1. Complete the basic framework of the game.
+    2. Create a tile palette and draw a level with tilemaps.
 
 - Iteration 1 (Mar 24 - 30 / 1 week)
 
-    Planned Tasks: 1,Create the basic model and animation of the protagonist Fox.
-                   2,Create a health system and sut up health UI
-                   3,Create and integrate the first enemy
-                   4.Create the front-end and back-end of the ranking of the game
+    Planned Tasks:
+    1. Create the basic model and animation of the protagonist Fox.
+    2. Create a health system and sut up health UI
+    3. Create and integrate the first enemy
+    4. Create the front-end and back-end of the ranking of the game
 
-    Completed Tasks: 1,Create the basic model and animation of the protagonist Fox.
-                     2,Create a health system and sut up health UI
-                     3,Create and integrate the first enemy
-                     4.Create the front-end and back-end of the ranking of the game
+    Completed Tasks:
+    1. Create the basic model and animation of the protagonist Fox.
+    2. Create a health system and sut up health UI
+    3. Create and integrate the first enemy
+    4. Create the front-end and back-end of the ranking of the game
 
 - Iteration 2 (Mar 31 - Apr 6 / 1 week)
 
-    Planned Tasks: 1,Create a collective system and sut up collective UI
-                   2,Create the basic model and animation of the Gems(collective things).
-                   3,Add pickup effect
-                   4,Add sound effect
+    Planned Tasks:
+    1. Create a collective system and sut up collective UI
+    2. Create the basic model and animation of the Gems(collective things).
+    3. Add pickup effect
+    4. Add sound effect
 
-    Completed Tasks: 1,Create a collective system and sut up collective UI
-                     2,Create the basic model and animation of the Gems(collective things).
-                     3,Add pickup effect
+    Completed Tasks:
+    1. Create a collective system and sut up collective UI
+    2. Create the basic model and animation of the Gems(collective things).
+    3. Add pickup effect
 
 - Iteration 3 (Apr 7 - Apr 13 / 1 week)
 
-    Planned Tasks: 1,Add sound effect
-                   2,Make the Menu work
-                   3,Conduct final game testing and debugging and prepare for release.
+    Planned Tasks:
+    1. Add sound effect
+    2. Make the Menu work
+    3. Conduct final game testing and debugging and prepare for release.
 
-    Completed Tasks: 1,Add sound effect
-                     2,Make the Menu work
-                     3,Conduct final game testing and debugging and prepare for release.
+    Completed Tasks:
+    1. Add sound effect
+    2. Make the Menu work
+    3. Conduct final game testing and debugging and prepare for release.
 
 ### Toolset
 
