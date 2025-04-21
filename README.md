@@ -1,6 +1,6 @@
 ![Project Banner](./banner.png)
 
-FOX'S TALE is a game that it's playing metod is similar to the classic game "Mario Run". Player can control the character to move forward and backward. Furthermore, the character can single jump and double jump. During the game, player can collect the coins in order to achieve a better score and avoid danger in order to keep the statement of character remain healthy. At the main page of the game contains an ranking of score.
+FOX'S TALE is a game with a similar playstyle to the classic "Mario" games. Players can control the character to move forward and backward. Furthermore, the character can single jump and double jump. In the game, players can collect gems to gain points and avoid obstacles in order to keep the character healthy. At the main page of the game there is a leaderboard of all players' scores.
 
 ## Table of content
 
@@ -35,7 +35,7 @@ Our game is available in page [release build](https://github.com/COMP2116-Ma-Mar
 
 ## Purposes of Our Game
 
-Our target audiences are mainly for primary and secondary school children to have an positve game to enjoy, but it is also suitable for any age of user to play our game. For the development, we chose the Agile Development Process. The reason for this choice is because the game market is highly competitive and we would like to adopt the Time-To-Market strategy. The Agile Development Process is a good fit for our strategy. We have concluded that we're able to complete this goal under some deep thinking of condition such as possibility, difficulty, work time period etc.
+Our target audience is mainly primary and secondary school children who are looking for a simple and positive game to enjoy but it is also suitable for people of any age to play. For the development, we chose the Agile Development Process. The reason for this choice is because the game market is highly competitive and we would like to adopt the Time-To-Market strategy. The Agile Development Process is a good fit for our strategy. We have concluded that we're able to complete this goal under some deep analysis of condition such as possibility, difficulty, work time period etc.
 
 <a id='members'></a>
 
@@ -177,19 +177,19 @@ In this game, we have used the following open source packages:
 
 ## Current status
 
-Currently, our game has one level only. In addition, our game contain the timting system, score system and ranking system. The timing system may add extra points to the score system meanwhile the ranking system is depend by the score system.
+Currently, our game only has one level. In addition to that, our game contains a timing system, score system and ranking system. The timing system contributesto the score system while the ranking system depends on the score system.
 
 <a id='future-plan'></a>
 
 ## Future Plan
 
-This section outlines the elements of our game that how it might be developed in future:
+This section outlines the elements of our game we wish to develop in future:
 
-- More levels: the difficulty will increase as player enter to the next level.
-- Game tutorial: insert a beginner tutorial at the very first stage to teach player hoe to play.
-- Multi-player system: except the solo mode, it could be developed a multi-players mode for new game experience.
-- Different character: new character could be invented whuch might bring with variety extra ability.
-- New character's skin: character's skin system might be developed in order to improve attract of player on the game.
-- Shopping system: A shopping system could be develpoed to let player to spend the coins they have got in the game and buy new character, skin or item if any.
-- Invent item: item may give character different effect.
-- Buff and debuff system: During the game, there might exist some blocks or items that may affect character's status such as speeding, blindness, slowing, hopping, rushing, frozing, posion etc.
+- More levels: The difficulty will increase as the player enters later levels.
+- Game tutorial: Insert a beginner tutorial at the very first stage to teach new players how to play.
+- Multi-player system: Other than the single player mode, we could develope a multiplayer mode for a new game experience.
+- Different characters: New characters could be developed which might come with different abilities.
+- New skins: A character's skin system might be developed to attract more players and keep the game fresh.
+- Shopping system: A shopping system could be developed for player to spend the gems they collected in game to buy new characters, skins or items.
+- Item: Items may give character different effect.
+- Buff and debuff system: During the game, there might be some obstacles or items that may affect character's status such as swiftness, blindness, slowness, jump boost, rushing, freezing, posion etc.
