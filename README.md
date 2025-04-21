@@ -150,12 +150,11 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
 
 ### Toolset
 
-- Programming Language: C#, Python, ...
-- Frameworks: Django, ...
-- IDEs: Unity 6000.0, VS Code, ...
+- Programming Language: C#, Python
+- Frameworks: Django
+- IDEs: Unity 6000.0, VS Code
 - Version Control: Git, GitHub
 - Hosting Platform: PythonAnywhere
-- ...
 
 ### Algorithm
 
