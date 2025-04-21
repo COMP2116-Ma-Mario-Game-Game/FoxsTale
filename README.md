@@ -83,7 +83,7 @@ Below is the planned schedule of the game development up to the first release. I
 
 We use GitHub Issues to manage our tasks for the aigle development process, and here are the [rules](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues/3) we follow. For a complete list of tasks, please visit [here](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/issues?q=is%3Aissue%20type%3ATask%20).
 
-### Iterations
+### Iterations & Pre-release
 
 - Iteration 0 (Mar 4 - 10, 2025 / 1 week)
 
@@ -126,19 +126,27 @@ We use GitHub Issues to manage our tasks for the aigle development process, and 
 
 - Iteration 3 (Apr 7 - Apr 13 / 1 week)
 
-    Planned Tasks: 
+    Planned Tasks:
     1. Add sound effect
     2. Make the Menu work
     3. Create the score system and timing system
     4. implement the score system into the ranking system
-    5. Conduct final game testing and debugging and prepare for release.
 
-    Completed Tasks: 
+    Completed Tasks:
     1. Add sound effect
     2. Make the Menu work
     3. Create the score system and timing system
     4. implement the score system into the ranking system
-    5. Conduct final game testing and debugging and prepare for release.
+
+- Pre-release (Apr 14 - Apr 22 / ~1 week)
+
+    Planned Tasks:
+    1. Conduct final game testing and debugging and prepare for release.
+    2. Polish the README.md.
+
+    Completed Tasks:
+    1. Conduct final game testing and debugging and prepare for release.
+    2. Polish the README.md.
 
 ### Toolset
 
