@@ -1,0 +1,3 @@
+[submodule "RankingBoard-Server"]
+	path = RankingBoard-Server
+	url = https://github.com/COMP2116-Ma-Mario-Game-Game/RankingBoard-Server.git
