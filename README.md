@@ -181,11 +181,11 @@ In this game, we have used the following open source packages:
 
 ## Graphical Abstract
 
-Main Logic Graph
+Main Logic Graph:
 
 ![Main Logic Graph](./Main.svg)
 
-Ranking Board Logic Graph
+Ranking Board Logic Graph:
 
 ![Ranking Board Logic Graph](./Ranking%20Board.svg)
 
