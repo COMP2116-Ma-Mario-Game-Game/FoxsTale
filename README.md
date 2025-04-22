@@ -177,6 +177,18 @@ In this game, we have used the following open source packages:
 - [Material Files / Assets](https://pan.baidu.com/s/1BiMuJRmoXYkkGZcgxdlsmA)       (Extract code: d7cz)
 - [Django 4.2](https://www.djangoproject.com/)
 
+<a id='graphical-abstract'></a>
+
+## Graphical Abstract
+
+Main Logic Graph:
+
+![Main Logic Graph](./Main.svg)
+
+Ranking Board Logic Graph:
+
+![Ranking Board Logic Graph](./Ranking%20Board.svg)
+
 <a id='current-status'></a>
 
 ## Current status
