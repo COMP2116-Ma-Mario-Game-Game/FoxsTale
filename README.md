@@ -185,6 +185,10 @@ Main Logic Graph
 
 ![Main Logic Graph](./Main.svg)
 
+Ranking Board Logic Graph
+
+![Ranking Board Logic Graph](./Ranking%20Board.svg)
+
 <a id='current-status'></a>
 
 ## Current status
