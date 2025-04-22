@@ -1,4 +1,4 @@
-![Project Banner](./banner.png)
+![Project Banner](./Readme/banner.png)
 
 FOX'S TALE is a game with a similar playstyle to the classic "Mario" games. Players can control the character to move forward and backward. Furthermore, the character can single jump and double jump. In the game, players can collect gems to gain points and avoid obstacles in order to keep the character healthy. At the main page of the game there is a leaderboard of all players' scores.
 
@@ -18,7 +18,7 @@ FOX'S TALE is a game with a similar playstyle to the classic "Mario" games. Play
 
 ### Demo Video
 
-[![Demo Video](./fox_thumbnail.png)](https://youtu.be/4HbANseA9HE)
+[![Demo Video](./Readme/fox_thumbnail.png)](https://youtu.be/4HbANseA9HE)
 
 Our game is available on the [web page](https://comp2116-ma-mario-game-game.github.io/), or if you prefer a desktop version you can download it from the [release build](https://github.com/COMP2116-Ma-Mario-Game-Game/FoxsTale/releases/tag/1.0). Give it a try!
 
