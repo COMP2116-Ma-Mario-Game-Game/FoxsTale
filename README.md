@@ -181,7 +181,9 @@ In this game, we have used the following open source packages:
 
 ## Graphical Abstract
 
-![Main Logic Graphical](./Main.svg)
+Main Logic Graph
+
+![Main Logic Graph](./Main.svg)
 
 <a id='current-status'></a>
 
