@@ -183,11 +183,11 @@ In this game, we have used the following open source packages:
 
 Main Logic Graph:
 
-![Main Logic Graph](./Main.svg)
+![Main Logic Graph](./Readme/Main.svg)
 
 Ranking Board Logic Graph:
 
-![Ranking Board Logic Graph](./Ranking%20Board.svg)
+![Ranking Board Logic Graph](./Readme/Ranking%20Board.svg)
 
 <a id='current-status'></a>
 
